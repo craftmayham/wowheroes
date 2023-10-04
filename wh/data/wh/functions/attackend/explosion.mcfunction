@@ -1,0 +1,1 @@
+$execute run summon creeper ~ ~ ~ {DeathLootTable:"none",ExplosionRadius:$(p)b,Fuse:0}

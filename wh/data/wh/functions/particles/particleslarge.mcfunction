@@ -1,0 +1,3 @@
+$execute if score @s particle matches 1 run particle minecraft:dust 0.$(r) 0.$(g) 0.$(b) $(s) ~ ~ ~ 3.3 3.1 3.3 0.1 1 force
+$execute if score @s particle matches 2 run particle minecraft:dust_color_transition 0.$(r) 0.$(g) 0.$(b) $(s) 0.$(b) 0.$(r) 0.$(g) ~ ~0.2 ~ 0.3 0.1 0.3 0.1 1 force
+$execute if score @s particle matches 3 run particle minecraft:entity_effect ~ ~0.1 ~ 0.$(r) 0.$(g) 0.$(b) 1 0 force

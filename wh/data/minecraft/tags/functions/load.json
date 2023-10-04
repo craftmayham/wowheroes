@@ -1,0 +1,9 @@
+{
+    "values": 
+    [
+	"wh:startup",
+	"wh:buffs",
+	"wh:spawning",
+	"wh:commonspawning"
+    ]
+}

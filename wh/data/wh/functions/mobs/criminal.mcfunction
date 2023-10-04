@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~ {ArmorItems:[{},{},{},{id:oak_button,Count:1}],Silent:1b,DeathLootTable:"wh:entities/criminal",CanPickUpLoot:1b,Health:20f,Tags:["criminal"],CustomName:'{"text":"Criminal","color":"yellow","italic":true}',HandItems:[{id:"minecraft:stick",Count:1b},{}],Attributes:[{Name:generic.max_health,Base:20},{Name:generic.movement_speed,Base:0.3}]}

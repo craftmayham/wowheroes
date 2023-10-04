@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"nomuUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "wh:nomu_serum"
+			}
+		}
+	},
+	"rewards": {
+		"function": "wh:nomu_serum"
+	}
+	}

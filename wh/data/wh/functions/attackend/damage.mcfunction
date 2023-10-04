@@ -1,0 +1,1 @@
+$execute positioned ~ ~ ~ run damage @e[limit=1,distance=..2] $(p)
